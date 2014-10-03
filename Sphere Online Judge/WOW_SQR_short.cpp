@@ -1,0 +1,1 @@
+long long T=0,n,k,y,x,i,X,Y,a;main(){scanf("%lld",&T);while(T--){scanf("%lld",&n);a=0;for(i=2;i<=n/i;++i){k=n/(i*i);y=k*i*i;x=k*(i-1)*(i-1);if(x*y>a){a=x*y;X=x;Y=y;}}printf("%lld*%ld\n",X,Y);}exit(0);}
