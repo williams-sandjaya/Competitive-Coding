@@ -1,7 +1,7 @@
 Competitive-Coding
 ==================
 
-This repository contains codes of some problems across popular online judges.
+This repository contains my solution for some problems across different popular online judges.
 
 ##Solutions to Codechef problems
 
