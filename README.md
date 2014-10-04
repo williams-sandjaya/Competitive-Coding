@@ -18,12 +18,12 @@ The file name equals problem name on Codeforces.
 <br>My profile on Codechef: http://codeforces.com/profile/joker_bane
 
 
-##Solutions to Hackerrank problems
+##Solutions to HackerRank problems
 
-These are my solutions for Hackerrank problems.
-The file name equals problem name on Hackerrank.
-<br>For example: equal.cpp is my solution for https://www.hackerrank.com/challenges/equal problem.
-<br>My profile on Hackerrank: https://www.hackerrank.com/joker_bane
+These are my solutions for HackerRank problems.
+The file name equals problem name on HackerRank.
+<br>For example: equal.cpp is my solution for https://www.Hackerrank.com/challenges/equal problem.
+<br>My profile on HackerRank: https://www.Hackerrank.com/joker_bane
 
 ##Solutions to Project Euler problems
 
