@@ -17,9 +17,6 @@ The file name equals problem name on Codeforces.
 <br>For example: 330A.cpp is my solution for http://codeforces.com/problemset/problem/330/A problem.
 <br>My profile on Codechef: http://codeforces.com/profile/joker_bane
 
-##Solutions to Facebook HackerCup problems
-
-These are my solutions for Facebook HackerCup 2013 (Round 1 and Round 2).
 
 ##Solutions to Hackerrank problems
 
